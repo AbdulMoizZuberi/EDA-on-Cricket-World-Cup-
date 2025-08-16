@@ -55,7 +55,6 @@ pip install pandas numpy matplotlib seaborn
    
    ```bash
    git clone https://github.com/AbdulMoizZuberi/EDA-on-Cricket-World-Cup-
-   cd cricket-worldcup-eda
    ```
 
 2. Open the Jupyter Notebook:
